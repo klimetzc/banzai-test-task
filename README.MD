@@ -1,5 +1,7 @@
 Тестовое задание для BANZAI
 
+[Replit](https://replit.com/@klimetzc/banzai-test-task#src/index.ts)
+
 _Для запуска на локальной машине может потребоваться Node.js версии 18 и выше_
 
 npm i - установить зависимости
